@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/alexandermosquea.com/static/js/main.3dc34493.chunk.js",
-    "main.js.map": "/alexandermosquea.com/static/js/main.3dc34493.chunk.js.map",
-    "runtime-main.js": "/alexandermosquea.com/static/js/runtime-main.7f88c2fe.js",
-    "runtime-main.js.map": "/alexandermosquea.com/static/js/runtime-main.7f88c2fe.js.map",
-    "static/js/2.cfa93716.chunk.js": "/alexandermosquea.com/static/js/2.cfa93716.chunk.js",
-    "static/js/2.cfa93716.chunk.js.map": "/alexandermosquea.com/static/js/2.cfa93716.chunk.js.map",
-    "static/js/3.94d2465c.chunk.js": "/alexandermosquea.com/static/js/3.94d2465c.chunk.js",
-    "static/js/3.94d2465c.chunk.js.map": "/alexandermosquea.com/static/js/3.94d2465c.chunk.js.map",
-    "index.html": "/alexandermosquea.com/index.html",
-    "static/js/2.cfa93716.chunk.js.LICENSE.txt": "/alexandermosquea.com/static/js/2.cfa93716.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.3dc34493.chunk.js",
+    "main.js.map": "/static/js/main.3dc34493.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d612e862.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d612e862.js.map",
+    "static/js/2.cfa93716.chunk.js": "/static/js/2.cfa93716.chunk.js",
+    "static/js/2.cfa93716.chunk.js.map": "/static/js/2.cfa93716.chunk.js.map",
+    "static/js/3.94d2465c.chunk.js": "/static/js/3.94d2465c.chunk.js",
+    "static/js/3.94d2465c.chunk.js.map": "/static/js/3.94d2465c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.cfa93716.chunk.js.LICENSE.txt": "/static/js/2.cfa93716.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f88c2fe.js",
+    "static/js/runtime-main.d612e862.js",
     "static/js/2.cfa93716.chunk.js",
     "static/js/main.3dc34493.chunk.js"
   ]
